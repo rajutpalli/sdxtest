@@ -58,5 +58,6 @@ int main()
     print("Hello World_New\n\r");
 
     cleanup_platform();
+    print("Hello World_New\n\r");
     return 0;
 }
