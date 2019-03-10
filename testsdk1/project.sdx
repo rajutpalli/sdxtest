@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="ASCII"?>
+<sdkproject:SdkProject xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:sdkproject="http://www.xilinx.com/sdkproject" name="testsdk1" location="/tmp/sdxgitdemo1/testsdk1" platform="/proj/xbuilds/2019.1_daily_latest/installs/lin64/SDx/2019.1/platforms/zc702/zc702.xpfm" platformUID="xilinx.com:zc702:zc702:1.0" systemProject="testsdk1_system" sysConfig="linux" runtime="C/C++" cpu="linux" cpuInstance="" os="linux">
+  <configuration name="Debug" id="xilinx.gnu.armv7.linux.exe.debug.955223178">
+    <configBuildOptions xsi:type="sdkproject:SdkOptions"/>
+    <lastBuildOptions xsi:type="sdkproject:SdkOptions"/>
+  </configuration>
+  <configuration name="Release" id="xilinx.gnu.armv7.linux.exe.release.1962849656" dirty="true">
+    <configBuildOptions xsi:type="sdkproject:SdkOptions"/>
+  </configuration>
+  <template appTemplateName="linux_hello_world"/>
+</sdkproject:SdkProject>
